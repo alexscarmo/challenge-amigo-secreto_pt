@@ -1,5 +1,5 @@
 let amigos = []
 
 function adicionarAmigo(){
-    let nome = document.getElementById()
+    let nome = document.getElementById("amigo")
 }
