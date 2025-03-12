@@ -115,6 +115,18 @@ button {
     cursor: pointer;
 }
 
+.button-reset {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    font-size: 16px;
+    visibility: hidden;
+}
+
+
 .button-add {
     background-color: var(--color-tertiary);
     color: var(--color-text);
